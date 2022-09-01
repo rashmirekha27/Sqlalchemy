@@ -1,4 +1,4 @@
-# Sqlalchemy_Challenge :Climate analysis
+# Sqlalchemy_Challenge
 
 Used Python and SQLAlchemy to perform basic climate analysis and data exploration of your climate database. Completed the following tasks by using SQLAlchemy ORM queries, Pandas, and Matplotlib.
 
@@ -13,10 +13,12 @@ Used this date to retrieve the previous 12 months of precipitation data by query
 selected the date and prcp values.
 sorted the dataframe values by date and plotted them.
 
-#Station Analysis:Ccalculated the total number of stations in the dataset.
+# Station Analysis:
+Calculated the total number of stations in the dataset.
 Found the most active stations (the stations with the most rows).
 Listed the stations and observation counts in descending order.
 Highest number of observations station id has.
+
 
 
 
