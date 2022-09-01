@@ -1,6 +1,6 @@
 # Sqlalchemy_Challenge
 
-Used Python and SQLAlchemy to perform basic climate analysis and data exploration of your climate database. Completed the following tasks by using SQLAlchemy ORM queries, Pandas, and Matplotlib.
+Used Python and SQLAlchemy to perform basic climate analysis and data exploration of your climate database. Completed the following tasks by using SQLAlchemy, Flask, ORM queries, Pandas, and Matplotlib.
 
 # Climate Analysis and Exploration:
 Used SQLAlchemy’s `create_engine` to connect SQLite database.
